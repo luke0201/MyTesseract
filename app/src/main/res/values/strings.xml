@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Tesseract</string>
+    <string name="image_description">Sample digits from MNIST</string>
+    <string name="btn_equ">EQU</string>
+    <string name="btn_eng">ENG</string>
+    <string name="btn_kor">KOR</string>
+</resources>
